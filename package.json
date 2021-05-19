@@ -14,9 +14,6 @@
   "engines": {
     "node": "12.x"
   },
-  "repository": {
-    "url": "https://glitch.com/edit/#!/remix/cmd-handler"
-  },
   "license": "MIT",
   "keywords": [
     "node",
