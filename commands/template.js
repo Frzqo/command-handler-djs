@@ -2,6 +2,6 @@ const { MessageEmbed } = require('discord.js')
 
 exports.run = async (client, message, args) => {
 
-    //Taruh Code Command kalian disini
+    //Put command code in here!
 
 }
